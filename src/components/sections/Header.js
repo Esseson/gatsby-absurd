@@ -2,6 +2,8 @@ import React from 'react';
 import styled from 'styled-components';
 import { StaticQuery, graphql } from 'gatsby';
 import Img from 'gatsby-image';
+import { Link } from 'gatsby';
+
 
 import { Container } from '@components/global';
 import ExternalLink from '@common/ExternalLink';
@@ -40,7 +42,7 @@ const Header = () => (
               <br />
               <p>
                 <StyledExternalLink href="https://yopetoday.com/">
-                 <button> SignUp Today </button>
+                <Link to="../pages/page-2">Go back to the homepage</Link>
                 </StyledExternalLink>
               </p>
             </Text>
