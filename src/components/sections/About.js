@@ -82,7 +82,7 @@ const About = () => (
                 <br />
                 <br />
                 <button> Here is what we have planned</button>
-
+                
               </p>
             </div>
             <Art>

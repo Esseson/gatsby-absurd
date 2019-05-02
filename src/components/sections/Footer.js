@@ -11,7 +11,7 @@ import { ReactComponent as InstagramIcon } from '@static/icons/instagram.svg';
 import { ReactComponent as TwitterIcon } from '@static/icons/twitter.svg';
 
 const SOCIAL = [
-  
+
   {
     icon: InstagramIcon,
     link: 'https://www.instagram.com/yopetoday/',
@@ -54,7 +54,7 @@ const Footer = () => (
                 Designed By
                 {` `}
                 <ExternalLink href="https://esseson.com">
-                  @esseson
+                  Esseson
                 </ExternalLink>
               </span>
             </Copyright>
