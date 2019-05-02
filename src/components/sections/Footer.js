@@ -6,15 +6,12 @@ import Img from 'gatsby-image';
 import { Container } from '@components/global';
 import ExternalLink from '@common/ExternalLink';
 
-import { ReactComponent as GithubIcon } from '@static/icons/github.svg';
+
 import { ReactComponent as InstagramIcon } from '@static/icons/instagram.svg';
 import { ReactComponent as TwitterIcon } from '@static/icons/twitter.svg';
 
 const SOCIAL = [
-  {
-    icon: Facebook,
-    link: 'https://web.facebook.com/yopemembers/',
-  },
+  
   {
     icon: InstagramIcon,
     link: 'https://www.instagram.com/yopetoday/',
