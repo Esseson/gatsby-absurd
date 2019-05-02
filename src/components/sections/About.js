@@ -80,9 +80,9 @@ const About = () => (
                 financial goals. Check out how we try to accomplish 
                 every month!
                 <br />
-                <button> Here is what we have planned</button>
                 <br />
-                Gatsby is fast in every way that matters.
+                <button> Here is what we have planned</button>
+
               </p>
             </div>
             <Art>
