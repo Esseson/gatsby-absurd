@@ -42,8 +42,8 @@ const Header = () => (
               <br />
               <p>
                 <StyledExternalLink href="https://yopetoday.com/">
-                <button>
-                <Link to='../pages/page-2/'>SignUp Now</Link>
+                <button> 
+                <Link to='/page-2/'>SignUp Now</Link>
                 </button>
                
                 </StyledExternalLink>
