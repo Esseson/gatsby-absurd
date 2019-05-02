@@ -7,8 +7,8 @@ import { Section, Container } from '@components/global';
 
 const TEAM = [
   {
-    name: 'Josh Peck',
-    image: 'josh.jpg',
+    name: 'Jovan Collins',
+    image: 'josh.jpeg',
     role: 'Founder',
   },
 ];
