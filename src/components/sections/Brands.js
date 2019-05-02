@@ -35,7 +35,7 @@ const UsedBy = () => (
 
 const StyledContainer = styled(Container)`
   display: flex;
-  align: center;
+  align-content: center;
   justify-content: flex-end;
   position: relative;
 
