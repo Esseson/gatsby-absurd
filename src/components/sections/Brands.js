@@ -37,7 +37,7 @@ const StyledContainer = styled(Container)`
   display: flex;
   align-content: center;
   justify-content: flex-end;
-  position: relative;
+  position: center;
 
   @media (max-width: ${props => props.theme.screen.md}) {
     justify-content: center;
