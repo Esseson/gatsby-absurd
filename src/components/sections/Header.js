@@ -5,6 +5,7 @@ import Img from 'gatsby-image';
 import { Link } from 'gatsby';
 
 
+
 import { Container } from '@components/global';
 import ExternalLink from '@common/ExternalLink';
 
@@ -43,7 +44,7 @@ const Header = () => (
               <p>
                 <StyledExternalLink href="https://yopetoday.com/">
                 <button> 
-                <Link to='/page-2/'>SignUp Now</Link>
+                <Link to='pagetwo'>SignUp Now</Link>
                 </button>
                
                 </StyledExternalLink>
