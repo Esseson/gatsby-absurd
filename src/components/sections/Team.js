@@ -67,7 +67,7 @@ const Team = () => (
       }
     `}
     render={data => (
-      <Section id="Contact Us" accent="secondary">
+      <Section id="contact us" accent="secondary">
         <Container style={{ position: 'relative' }}>
           <h1>The Team</h1>
           <TeamGrid>

@@ -57,7 +57,7 @@ const UsedBy = () => (
       }
     `}
     render={data => (
-      <Section id="How Yope Works" accent>
+      <Section id="how yope works" accent>
         <StyledContainer>
           <div>
             <h1>Used by biggest in tech</h1>
