@@ -2,8 +2,6 @@ import React from 'react';
 import styled from 'styled-components';
 import { StaticQuery, graphql } from 'gatsby';
 import Img from 'gatsby-image';
-import { Link } from 'gatsby';
-
 
 
 import { Container } from '@components/global';
@@ -44,7 +42,7 @@ const Header = () => (
               <p>
                 <StyledExternalLink href="https://yopetoday.com/">
                 <button> 
-                <Link to='pagetwo'>SignUp Now</Link>
+                <a href="https://stoic-torvalds-c7ac0e.netlify.com/">SignUp Now!</a>
                 </button>
                
                 </StyledExternalLink>
