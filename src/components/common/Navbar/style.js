@@ -8,6 +8,7 @@ export const Nav = styled.nav`
   position: fixed;
   width: 100%;
   top: 0;
+  border-bottom: 1px solid black;
   z-index: 1000;
 `;
 
