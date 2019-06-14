@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import { StaticQuery, graphql } from 'gatsby';
 import Img from 'gatsby-image';
 
+
 import { Section, Container } from '@components/global';
 
 const About = () => (
@@ -72,23 +73,56 @@ const About = () => (
               </p>
             </div>
           </Grid>
+       
           <Grid>
             <div>
-              <h2>Boosting the people of the community </h2>
+              <h2>Here's what we noticed</h2>
               <p>
-                A portion of everyone membership goes toward OUR 
-                financial goals. Check out how we try to accomplish 
-                every month!
-                <br />
-                <br />
-                <button> Here is what we have planned</button>
-                
+              Most individuals looking to learn the basics of personal finance don’t know where to begin. 
+              We all read amazing ‘tip articles’ on personal finance and investing, yet still, remain confused on HOW to manage our money.
+              This is because there is no proper framework for personal finance. So, we try to seek professional help. 
+              However, most people are reluctant because it can be very costly and most professionals only deal with matters of investing.
+              Not personal finance as a whole.
+              <br></br>
+              <br></br>
+          YOPE is the answer to both of those problems.
+          Not only have we developed a curriculum for personal finance, but we also provide professional help for each YOPE member, all for an affordable monthly subscription.
+          YOPE empowers every individual on how to manage their money so when they read articles or are confronted with different financial products they know exactly what it means and how it will benefit them.
               </p>
             </div>
             <Art>
-              <Img fluid={data.art_ideas.childImageSharp.fluid} />
+              <Img fluid={data.art_fast.childImageSharp.fluid} />
             </Art>
           </Grid>
+      
+
+          <Grid inverse>
+            <Art>
+              <Img fluid={data.art_learn.childImageSharp.fluid} />
+            </Art>
+            <div>
+              <h2>Boosting the people of the community.</h2>
+              <p>
+              A portion of everyone's membership goes toward OUR financial goals. 
+              Check out we try to accomplish every month!. 
+              <br></br>
+              <br></br>
+              <div>
+                <a class="f6 link dim br2 ba bw2 ph3 pv2 mb2 dib blue" href="#0">Here's what we Planned</a>
+              </div>
+              <br></br>
+              <br></br>
+
+              <p>
+              YOPE gives members a consultant to help them become better
+              at using their money PLUS we provide communities with more
+              opportunities to make their money go further.
+              </p>
+              
+              </p>
+            </div>
+          </Grid>
+
         </Container>
       </Section>
     )}

@@ -26,18 +26,17 @@ const UsedBy = () => (
         <StyledContainer>
           <div>
             <h1>How Yope Works</h1>
-            <br>
-
-            </br>
             <br></br>
-            <span>
-            <div>
-          <h3>
-          Your finances can get confusing sometimes. So we made understanding them very simple!
-Here's what you get as a YOPE member
-          </h3>
-        </div>
-        </span>
+            <br></br>
+                  <span>
+                  <div>
+                <h3>
+                Your finances can get confusing sometimes. 
+                So we made understanding them very simple!
+                Here's what you get as a YOPE member:
+                </h3>
+              </div>
+              </span>
 
           </div>
        
