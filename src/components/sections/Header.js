@@ -42,7 +42,8 @@ const Header = () => (
               <p>
                 <StyledExternalLink href="https://yopetoday.com/">
                 <button> 
-                <a href="https://stoic-torvalds-c7ac0e.netlify.com/">SignUp Now!</a>
+                <a class="f6 link dim br2 ba bw2 ph3 pv2 mb2 dib darkblue" href="https://stoic-torvalds-c7ac0e.netlify.com/">SignUp Now!</a>
+
                 </button>
                
                 </StyledExternalLink>

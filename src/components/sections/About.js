@@ -108,7 +108,7 @@ const About = () => (
               <br></br>
               <br></br>
               <div>
-                <a class="f6 link dim br2 ba bw2 ph3 pv2 mb2 dib blue" href="#0">Here's what we Planned</a>
+                <a class="f6 link dim br2 ba bw2 ph3 pv2 mb2 dib darkblue" href="#0">Here's what we Planned</a>
               </div>
               <br></br>
               <br></br>
