@@ -84,9 +84,7 @@ const UsedBy = () => (
               <img src="https://i2.wp.com/yopetoday.com/wp-content/uploads/2019/03/egifts.png?w=820&ssl=1" alt="Smiley face" />
               
               <h3>
-
               Aid to encourage your financial journey in the form of FREE e-gift cards and much more!
-
               </h3>
 
 

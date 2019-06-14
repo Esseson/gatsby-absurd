@@ -57,12 +57,15 @@ const About = () => (
               </p>
             </div>
             <Art>
-              <Img fluid={data.art_fast.childImageSharp.fluid} />
+              {/* <Img fluid={data.art_fast.childImageSharp.fluid} /> */}
+              <img src="https://i2.wp.com/yopetoday.com/wp-content/uploads/2017/11/About-us.png?w=2280&ssl=1" alt="Smiley face" />
+
             </Art>
           </Grid>
           <Grid inverse>
             <Art>
-              <Img fluid={data.art_learn.childImageSharp.fluid} />
+              {/* <Img fluid={data.art_learn.childImageSharp.fluid} /> */}
+              <img src="https://i1.wp.com/yopetoday.com/wp-content/uploads/2019/03/about-pg-banner.png?resize=1024%2C360&ssl=1" alt="Smiley face" />
             </Art>
             <div>
               <h2>Assisting our members since 2016!</h2>
@@ -91,7 +94,9 @@ const About = () => (
               </p>
             </div>
             <Art>
-              <Img fluid={data.art_fast.childImageSharp.fluid} />
+              {/* <Img fluid={data.art_fast.childImageSharp.fluid} /> */}
+              <img src="https://i2.wp.com/yopetoday.com/wp-content/uploads/2019/03/YOPE-Goals.png?resize=1024%2C360&ssl=1" alt="Smiley face" width='3000px' height='300px' />
+
             </Art>
           </Grid>
       
